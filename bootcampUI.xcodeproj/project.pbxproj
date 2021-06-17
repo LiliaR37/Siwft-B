@@ -13,6 +13,7 @@
 		DBA8F772267A36780066B397 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBA8F771267A36780066B397 /* Preview Assets.xcassets */; };
 		DBA8F77A267A3DFB0066B397 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBA8F779267A3DFB0066B397 /* ShapesBootcamp.swift */; };
 		DBA8F77C267A6B6E0066B397 /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBA8F77B267A6B6E0066B397 /* ColorBootcamp.swift */; };
+		DBA8F77E267A7BDD0066B397 /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBA8F77D267A7BDD0066B397 /* GradientsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DBA8F773267A36780066B397 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DBA8F779267A3DFB0066B397 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		DBA8F77B267A6B6E0066B397 /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
+		DBA8F77D267A7BDD0066B397 /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				DBA8F76C267A36620066B397 /* ContentView.swift */,
 				DBA8F779267A3DFB0066B397 /* ShapesBootcamp.swift */,
 				DBA8F77B267A6B6E0066B397 /* ColorBootcamp.swift */,
+				DBA8F77D267A7BDD0066B397 /* GradientsBootcamp.swift */,
 				DBA8F76E267A36780066B397 /* Assets.xcassets */,
 				DBA8F773267A36780066B397 /* Info.plist */,
 				DBA8F770267A36780066B397 /* Preview Content */,
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DBA8F77E267A7BDD0066B397 /* GradientsBootcamp.swift in Sources */,
 				DBA8F76D267A36620066B397 /* ContentView.swift in Sources */,
 				DBA8F77A267A3DFB0066B397 /* ShapesBootcamp.swift in Sources */,
 				DBA8F77C267A6B6E0066B397 /* ColorBootcamp.swift in Sources */,
